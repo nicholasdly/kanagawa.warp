@@ -40,8 +40,9 @@
 
 ## Configuration
 
-- If you are happy with the colors, no further configuration is needed
-- Open and make changes to the `kanagawa.yaml` file to make specific changes
+- Color palette has been slightly modified to improve readability in the terminal
+- Happy with the colors? No further configuration necessary!
+- Open and make changes to the `kanagawa.yaml` file to make changes
 
 ```yaml
 accent: "#C8C093"
